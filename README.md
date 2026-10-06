@@ -1,16 +1,46 @@
-## Hi there 👋
+## 👋 Olá, Me chamo Leonardo
 
-<!--
-**LeoMusiaski/LeoMusiaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenharia de Software | Interesse em desenvolvimento back end e cybersegurança | Java - Spring Boot - MySql - Git 
 
-Here are some ideas to get you started:
+## 🎓 Formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curso: Engenharia de Software
+
+Instituição: Universidade Positivo
+
+## 💡 Interesses
+
+Área de tecnologia, CyberSegurança.
+
+Área de tecnologia 2, Desenvolvimento Back-End.
+
+Área de tecnologia 3, Cloud Computing.
+
+## 🛠️ Tecnologias
+
+Aqui estão algumas das tecnologias e ferramentas com as quais trabalho e estudo:
+
+Linguagens:
+- Java
+- pythom
+  
+Ferramentas & Banco de Dados:
+- MySQL
+- MongoDB
+- Git
+  
+## 📖 Atualmente estudando 
+
+- Pythom
+- MongoDB
+- .NET
+
+## 🌱 Aprofundando conhecimentos
+- POO / JAVA
+- MySQL
+
+🔗 Contato
+
+LinkedIn: https://www.linkedin.com/in/leonardo-musiaski-ab82603a5/
+
+E-mail: leomusiaskisant@gmail.com
